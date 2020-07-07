@@ -46,10 +46,10 @@ The **first one** is a request for process with id: ***PID*** to be ***allocated
 
 The unit would be KB.  
 
-
+<br/>
 
 The **second one** is ***deallocating*** memory for process with id ***PID***.  
 
-
+<br/>
 
 The **third one** asks the program to ***print out the current state of memory*** (allocations and free spaces).
