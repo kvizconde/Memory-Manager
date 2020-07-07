@@ -1,4 +1,4 @@
-package memory.manager;
+package memory;
 
 import java.io.File;
 import java.util.ArrayList;
